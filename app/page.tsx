@@ -877,31 +877,31 @@ export default function Portfolio() {
               <div className="grid md:grid-cols-3 gap-8">
                 {[
                   {
-                    title: "Enim Eleifend",
+                    title: "Sorry Anis",
                     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris.",
                   },
                   {
-                    title: "Felis Pretium",
+                    title: "Gurau je",
                     description:
                       "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
                   },
                   {
-                    title: "Feugiat Vivamus",
+                    title: "Sorry Tau",
                     description:
                       "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
                   },
                   {
-                    title: "Quis Mi Phasellus",
+                    title: "Nanti Aku kasi kau Pegang",
                     description:
                       "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
                   },
                   {
-                    title: "A Est Phasellus",
+                    title: "Kad Credit TNG Aku",
                     description:
                       "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
                   },
                   {
-                    title: "Magna In Hac",
+                    title: "Sorry Tau Sayang",
                     description:
                       "Sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
                   },
@@ -1080,12 +1080,12 @@ export default function Portfolio() {
                 <div className="grid sm:grid-cols-2 gap-6">
                   <div className="space-y-2">
                     <label htmlFor="name" className="text-sm font-medium text-[#aaa]">
-                      Lorem
+                      Kryx
                     </label>
                     <input
                       id="name"
                       className="w-full px-4 py-3 bg-[#111] border border-[#222] rounded-lg focus:outline-none focus:ring-2 focus:ring-teal-500 text-[#f5f5f5] transition-all"
-                      placeholder="Lorem ipsum"
+                      placeholder="Kryx"
                     />
                   </div>
                   <div className="space-y-2">
